@@ -30,3 +30,6 @@ __pycache__
 
 dot.ini
 .ini
+
+mflix_venv
+.vscode
