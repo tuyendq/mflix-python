@@ -2,7 +2,7 @@ appnope==0.1.0
 attrs==19.1.0
 backcall==0.1.0
 bcrypt==3.1.7
-bleach==3.1.0
+bleach==3.1.1
 cffi==1.13.1
 Click==7.0
 decorator==4.4.0
@@ -11,7 +11,7 @@ dnspython==1.15.0
 entrypoints==0.3
 Faker==0.8.13
 flake8==3.7.8
-Flask==0.12.4
+Flask==1.0.0
 Flask-Bcrypt==0.7.1
 Flask-Cors==3.0.3
 Flask-JWT-Extended==3.7.0
